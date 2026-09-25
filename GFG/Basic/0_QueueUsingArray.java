@@ -1,0 +1,62 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1
+ * Platform     : GFG
+ * Difficulty   : Basic
+ */
+
+class myQueue {
+    private int[] arr;
+    private int front;
+    private int rear;
+    private int capacity;
+    private int size;
+
+    public myQueue(int n) {
+        capacity = n;
+        arr = new int[capacity];
+        front = 0;
+        rear = -1;
+        size = 0;
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    public boolean isFull() {
+        return size == capacity;
+    }
+
+    public void enqueue(int x) {
+        if (isFull()) {
+            System.out.println("Queue Overflow");
+            return;
+        }
+        rear = (rear + 1) % capacity;
+        arr[rear] = x;
+        size++;
+    }
+
+    public void dequeue() {
+        if (isEmpty()) {
+            System.out.println("Queue Underflow");
+            return;
+        }
+        front = (front + 1) % capacity;
+        size--;
+    }
+
+    public int getFront() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return arr[front];
+    }
+
+    public int getRear() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return arr[rear];
+    }
+}
