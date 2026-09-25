@@ -1,0 +1,16 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1
+ * Platform     : GFG
+ * Difficulty   : Basic
+ */
+
+class Solution {
+	public int arraySum(int arr[]) {
+		int sum = 0;
+		for (int i = 0; i<arr.length; i++) {
+			sum += arr[i];
+		}
+		return sum;
+	}
+}
+
