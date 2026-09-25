@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 6 | 0 | 0 | 0 | 6 |
-| **Total** | **6** | **0** | **0** | **0** | **6** |
+| GeeksforGeeks | 7 | 0 | 0 | 0 | 7 |
+| **Total** | **7** | **0** | **0** | **0** | **7** |
 
 ## Solved Problems
 
@@ -19,6 +19,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [Array Subset](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySubset.java) |
 | 3 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
 | 4 | [Min and Max in Array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MinAndMaxInArray.java) |
-| 5 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
-| 6 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
+| 5 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
+| 6 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
+| 7 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
 <!-- COMMITDSA_END -->
