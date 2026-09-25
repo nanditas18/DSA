@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 13 | 0 | 0 | 0 | 13 |
-| **Total** | **13** | **0** | **0** | **0** | **13** |
+| GeeksforGeeks | 14 | 0 | 0 | 0 | 14 |
+| **Total** | **14** | **0** | **0** | **0** | **14** |
 
 ## Solved Problems
 
@@ -27,5 +27,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 10 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
 | 11 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
 | 12 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
-| 13 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
+| 13 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
+| 14 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
 <!-- COMMITDSA_END -->
