@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 1 | 1 | 0 | 0 | - |
-| GeeksforGeeks | 50 | 4 | 19 | 0 | 27 |
-| **Total** | **51** | **5** | **19** | **0** | **27** |
+| GeeksforGeeks | 51 | 4 | 19 | 0 | 28 |
+| **Total** | **52** | **5** | **19** | **0** | **28** |
 
 ## Solved Problems
 
@@ -54,16 +54,17 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 37 | [nPr](https://practice.geeksforgeeks.org/problems/npr4253/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_NPr.java) |
 | 38 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeDigitSum.java) |
 | 39 | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeString.java) |
-| 40 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
-| 41 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
-| 42 | [Reverse Array Using Stack](https://practice.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayUsingStack.java) |
-| 43 | [Reverse String with Spaces Intact](https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseStringWithSpacesIntact.java) |
-| 44 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
-| 45 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
-| 46 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
-| 47 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StackOperations.java) |
-| 48 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
-| 49 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
-| 50 | [Sum of GP](https://practice.geeksforgeeks.org/problems/sum-of-gp2120/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfGP.java) |
-| 51 | [Sum of odd and even elements](https://practice.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfOddAndEvenElements.java) |
+| 40 | [Power of Pow](https://practice.geeksforgeeks.org/problems/power-of-pow-even-number5440/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerOfPow.java) |
+| 41 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
+| 42 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
+| 43 | [Reverse Array Using Stack](https://practice.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayUsingStack.java) |
+| 44 | [Reverse String with Spaces Intact](https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseStringWithSpacesIntact.java) |
+| 45 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
+| 46 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
+| 47 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
+| 48 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StackOperations.java) |
+| 49 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
+| 50 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
+| 51 | [Sum of GP](https://practice.geeksforgeeks.org/problems/sum-of-gp2120/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfGP.java) |
+| 52 | [Sum of odd and even elements](https://practice.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfOddAndEvenElements.java) |
 <!-- COMMITDSA_END -->
