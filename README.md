@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 1 | 1 | 0 | 0 | - |
-| GeeksforGeeks | 44 | 4 | 16 | 0 | 24 |
-| **Total** | **45** | **5** | **16** | **0** | **24** |
+| GeeksforGeeks | 45 | 4 | 16 | 0 | 25 |
+| **Total** | **46** | **5** | **16** | **0** | **25** |
 
 ## Solved Problems
 
@@ -41,23 +41,24 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 24 | [Check Identical Matrices](https://practice.geeksforgeeks.org/problems/identical-matrices1042/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIdenticalMatrices.java) |
 | 25 | [Check if divisible by 4](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-43813/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy4.java) |
 | 26 | [Check if divisible by 5](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-52730/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy5.java) |
-| 27 | [Find Kth Digit](https://practice.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FindKthDigit.java) |
-| 28 | [GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array0614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfArray.java) |
-| 29 | [Implement Stack using Array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ImplementStackUsingArray.java) |
-| 30 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 31 | [Min and Max in Array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MinAndMaxInArray.java) |
-| 32 | [nPr](https://practice.geeksforgeeks.org/problems/npr4253/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_NPr.java) |
-| 33 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeDigitSum.java) |
-| 34 | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeString.java) |
-| 35 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
-| 36 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
-| 37 | [Reverse Array Using Stack](https://practice.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayUsingStack.java) |
-| 38 | [Reverse String with Spaces Intact](https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseStringWithSpacesIntact.java) |
-| 39 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
-| 40 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
-| 41 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
-| 42 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StackOperations.java) |
-| 43 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
-| 44 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
-| 45 | [Sum of GP](https://practice.geeksforgeeks.org/problems/sum-of-gp2120/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfGP.java) |
+| 27 | [Distance Between 2 Points](https://practice.geeksforgeeks.org/problems/distance-between-2-points3200/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DistanceBetween2Points.java) |
+| 28 | [Find Kth Digit](https://practice.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FindKthDigit.java) |
+| 29 | [GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array0614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfArray.java) |
+| 30 | [Implement Stack using Array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ImplementStackUsingArray.java) |
+| 31 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 32 | [Min and Max in Array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MinAndMaxInArray.java) |
+| 33 | [nPr](https://practice.geeksforgeeks.org/problems/npr4253/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_NPr.java) |
+| 34 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeDigitSum.java) |
+| 35 | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeString.java) |
+| 36 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
+| 37 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
+| 38 | [Reverse Array Using Stack](https://practice.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayUsingStack.java) |
+| 39 | [Reverse String with Spaces Intact](https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseStringWithSpacesIntact.java) |
+| 40 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
+| 41 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
+| 42 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
+| 43 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StackOperations.java) |
+| 44 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
+| 45 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
+| 46 | [Sum of GP](https://practice.geeksforgeeks.org/problems/sum-of-gp2120/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfGP.java) |
 <!-- COMMITDSA_END -->
