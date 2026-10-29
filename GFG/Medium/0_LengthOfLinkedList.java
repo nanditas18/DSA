@@ -1,0 +1,29 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1
+ * Platform     : GFG
+ * Difficulty   : Medium
+ */
+
+/* Structure of linked list Node
+class Node {
+	int data;
+	Node next;
+	
+	Node(int a) {
+		data = a;
+		next = null;
+	}
+}
+*/
+class Solution {
+	public int getCount(Node head) {
+		int count = 0;
+		Node curr = head;
+		while (curr != null) {
+			count++;
+			curr = curr.next;
+		}
+		return count;
+	}
+}
+
