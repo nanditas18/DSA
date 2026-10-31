@@ -1,0 +1,21 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1
+ * Platform     : GFG
+ * Difficulty   : Medium
+ */
+
+class Solution {
+	String removeVowels(String s) {
+		StringBuilder ans = new StringBuilder();
+	
+		for (int i = 0; i < s.length(); i++) {
+			char ch = s.charAt(i);
+			if (ch != 'a' && ch != 'e' && ch != 'i' &&
+			ch != 'o' && ch != 'u') {
+				ans.append(ch);
+			}
+		}
+		return ans.toString();
+	}
+}
+
