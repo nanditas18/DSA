@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 2 | 2 | 0 | 0 | - |
-| GeeksforGeeks | 108 | 6 | 67 | 1 | 34 |
-| **Total** | **110** | **8** | **67** | **1** | **34** |
+| GeeksforGeeks | 109 | 6 | 68 | 1 | 34 |
+| **Total** | **111** | **8** | **68** | **1** | **34** |
 
 ## Solved Problems
 
@@ -88,41 +88,42 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 71 | [The Lazy Caterer's Problem](https://practice.geeksforgeeks.org/problems/the-lazy-caterers-problem2527/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TheLazyCaterersProblem.java) |
 | 72 | [Thief Trying to Escape](https://practice.geeksforgeeks.org/problems/thief-try-to-excape0710/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_ThiefTryingToEscape.java) |
 | 73 | [Total digits in 1 to n](https://practice.geeksforgeeks.org/problems/total-digits4030/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TotalDigitsIn1ToN.java) |
-| 74 | [Type of array](https://practice.geeksforgeeks.org/problems/type-of-array4605/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TypeOfArray.java) |
-| 75 | [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaveArray.java) |
-| 76 | [Median of 2 Sorted Arrays of Same Size](https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MedianOf2SortedArraysOfSameSize.java) |
-| 77 | [Add Two Fractions](https://practice.geeksforgeeks.org/problems/add-two-fractions/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AddTwoFractions.java) |
-| 78 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
-| 79 | [Array Subset](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySubset.java) |
-| 80 | [Check Identical Matrices](https://practice.geeksforgeeks.org/problems/identical-matrices1042/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIdenticalMatrices.java) |
-| 81 | [Check if divisible by 4](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-43813/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy4.java) |
-| 82 | [Check if divisible by 5](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-52730/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy5.java) |
-| 83 | [Distance Between 2 Points](https://practice.geeksforgeeks.org/problems/distance-between-2-points3200/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DistanceBetween2Points.java) |
-| 84 | [Find Kth Digit](https://practice.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FindKthDigit.java) |
-| 85 | [GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array0614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfArray.java) |
-| 86 | [Get Smaller in Array](https://practice.geeksforgeeks.org/problems/get-smaller-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GetSmallerInArray.java) |
-| 87 | [Implement Stack using Array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ImplementStackUsingArray.java) |
-| 88 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
-| 89 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
-| 90 | [Make Co-prime Array](https://practice.geeksforgeeks.org/problems/make-coprime-array3058/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeCoPrimeArray.java) |
-| 91 | [Min and Max in Array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MinAndMaxInArray.java) |
-| 92 | [nPr](https://practice.geeksforgeeks.org/problems/npr4253/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_NPr.java) |
-| 93 | [Pairing From Both Ends](https://practice.geeksforgeeks.org/problems/pairing-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PairingFromBothEnds.java) |
-| 94 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeDigitSum.java) |
-| 95 | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeString.java) |
-| 96 | [Power of Pow](https://practice.geeksforgeeks.org/problems/power-of-pow-even-number5440/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerOfPow.java) |
-| 97 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
-| 98 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
-| 99 | [Reverse Array Using Stack](https://practice.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayUsingStack.java) |
-| 100 | [Reverse String with Spaces Intact](https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseStringWithSpacesIntact.java) |
-| 101 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
-| 102 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
-| 103 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
-| 104 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StackOperations.java) |
-| 105 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
-| 106 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
-| 107 | [Sum of GP](https://practice.geeksforgeeks.org/problems/sum-of-gp2120/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfGP.java) |
-| 108 | [Sum of odd and even elements](https://practice.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfOddAndEvenElements.java) |
-| 109 | [Surface Area and Volume of Cuboid](https://practice.geeksforgeeks.org/problems/surface-area-and-volume-of-cuboid0522/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SurfaceAreaAndVolumeOfCuboid.java) |
-| 110 | [Two Max Adjacent in an Array](https://practice.geeksforgeeks.org/problems/why-is-melody-so-chocolaty0446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_TwoMaxAdjacentInAnArray.java) |
+| 74 | [Transform Array In-Place](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TransformArrayInPlace.java) |
+| 75 | [Type of array](https://practice.geeksforgeeks.org/problems/type-of-array4605/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_TypeOfArray.java) |
+| 76 | [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_WaveArray.java) |
+| 77 | [Median of 2 Sorted Arrays of Same Size](https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1) | GeeksforGeeks | Hard | JAVA | [Code](./GFG/Hard/0_MedianOf2SortedArraysOfSameSize.java) |
+| 78 | [Add Two Fractions](https://practice.geeksforgeeks.org/problems/add-two-fractions/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AddTwoFractions.java) |
+| 79 | [Array Search](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySearch.java) |
+| 80 | [Array Subset](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ArraySubset.java) |
+| 81 | [Check Identical Matrices](https://practice.geeksforgeeks.org/problems/identical-matrices1042/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIdenticalMatrices.java) |
+| 82 | [Check if divisible by 4](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-43813/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy4.java) |
+| 83 | [Check if divisible by 5](https://practice.geeksforgeeks.org/problems/check-if-divisible-by-52730/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckIfDivisibleBy5.java) |
+| 84 | [Distance Between 2 Points](https://practice.geeksforgeeks.org/problems/distance-between-2-points3200/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DistanceBetween2Points.java) |
+| 85 | [Find Kth Digit](https://practice.geeksforgeeks.org/problems/print-the-kth-digit3520/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FindKthDigit.java) |
+| 86 | [GCD of Array](https://practice.geeksforgeeks.org/problems/gcd-of-array0614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfArray.java) |
+| 87 | [Get Smaller in Array](https://practice.geeksforgeeks.org/problems/get-smaller-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GetSmallerInArray.java) |
+| 88 | [Implement Stack using Array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ImplementStackUsingArray.java) |
+| 89 | [Largest in Array](https://practice.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LargestInArray.java) |
+| 90 | [Linked List End Insertion](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LinkedListEndInsertion.java) |
+| 91 | [Make Co-prime Array](https://practice.geeksforgeeks.org/problems/make-coprime-array3058/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeCoPrimeArray.java) |
+| 92 | [Min and Max in Array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MinAndMaxInArray.java) |
+| 93 | [nPr](https://practice.geeksforgeeks.org/problems/npr4253/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_NPr.java) |
+| 94 | [Pairing From Both Ends](https://practice.geeksforgeeks.org/problems/pairing-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PairingFromBothEnds.java) |
+| 95 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeDigitSum.java) |
+| 96 | [Palindrome String](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PalindromeString.java) |
+| 97 | [Power of Pow](https://practice.geeksforgeeks.org/problems/power-of-pow-even-number5440/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerOfPow.java) |
+| 98 | [Queue Using Array](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_QueueUsingArray.java) |
+| 99 | [Reverse Array in Groups](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayInGroups.java) |
+| 100 | [Reverse Array Using Stack](https://practice.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseArrayUsingStack.java) |
+| 101 | [Reverse String with Spaces Intact](https://practice.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseStringWithSpacesIntact.java) |
+| 102 | [Reverse Subarray](https://practice.geeksforgeeks.org/problems/reverse-sub-array5620/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseSubarray.java) |
+| 103 | [Rotate Array by One](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RotateArrayByOne.java) |
+| 104 | [Segregate Even and Odd numbers](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SegregateEvenAndOddNumbers.java) |
+| 105 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_StackOperations.java) |
+| 106 | [Sum of AP series](https://practice.geeksforgeeks.org/problems/sum-of-ap-series4512/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfAPSeries.java) |
+| 107 | [Sum of Array](https://practice.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfArray.java) |
+| 108 | [Sum of GP](https://practice.geeksforgeeks.org/problems/sum-of-gp2120/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfGP.java) |
+| 109 | [Sum of odd and even elements](https://practice.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SumOfOddAndEvenElements.java) |
+| 110 | [Surface Area and Volume of Cuboid](https://practice.geeksforgeeks.org/problems/surface-area-and-volume-of-cuboid0522/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_SurfaceAreaAndVolumeOfCuboid.java) |
+| 111 | [Two Max Adjacent in an Array](https://practice.geeksforgeeks.org/problems/why-is-melody-so-chocolaty0446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_TwoMaxAdjacentInAnArray.java) |
 <!-- COMMITDSA_END -->
