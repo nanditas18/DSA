@@ -15,7 +15,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | LeetCode | Easy | MYSQL | [Code](./LeetCode/Easy/511_GamePlayAnalysisI.cpp) |
 | 2 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/976_LargestPerimeterTriangle.java) |
 | 3 | [Middle Swap in 4x4 Grid](https://practice.geeksforgeeks.org/problems/middle-swap/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_MiddleSwapIn4x4Grid.java) |
 | 4 | [Perfect Numbers](https://practice.geeksforgeeks.org/problems/perfect-numbers3207/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_PerfectNumbers.java) |
