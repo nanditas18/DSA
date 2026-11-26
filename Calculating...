@@ -1,0 +1,16 @@
+/**
+ * Problem Link : https://practice.geeksforgeeks.org/problems/count-numbers-divisible-by-m1524/1
+ * Platform     : GFG
+ * Difficulty   : Medium
+ */
+
+class Solution {
+  public int countDivisibles(int A, int B, int M) {
+    int c = 0;
+    for (int i = A; i <= B; i++) {
+      if (i % M == 0)
+        c += 1;
+    }
+    return c;
+  }
+};
